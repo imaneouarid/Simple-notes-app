@@ -4,7 +4,6 @@
 - Notes are saved automatically so you never have to worry about losing anything. 
 - The entire user interface can be customised with your favourite colours and you can use the built-in search function to search for any of your older notes.
 - There is also Tasker support to read / write notes and to receive events when a note is updated.
-- Downloads available from Google Play, F-Droid, or [GitHub Releases](https://github.com/RafhaanShah/Simple-Notes/releases/latest).
 
 <table>
   <tr>
