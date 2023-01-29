@@ -14,8 +14,6 @@
   </tr>
 </table>
 
-<a href='https://play.google.com/store/apps/details?id=com.rafapps.simplenotes'><img width=200 alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-<a href='https://f-droid.org/packages/com.rafapps.simplenotes/'><img width=200 alt='Get it on F-Droid' src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/></a>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
